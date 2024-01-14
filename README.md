@@ -4,38 +4,38 @@
 
 <p align="center">
   <a
-    href="https://www.npmjs.com/package/react-simple-snackbar"
+    href="https://www.npmjs.com/package/react-cmbr-snackbar"
     title="NPM Version"
     target="blank"
   >
     <img
-      src="https://img.shields.io/npm/v/react-simple-snackbar"
+      src="https://img.shields.io/npm/v/react-cmbr-snackbar"
       alt="NPM Version"
     />
   </a>
   <a
-    href="https://travis-ci.org/evandromacedo/react-simple-snackbar"
+    href="https://travis-ci.org/evandromacedo/react-cmbr-snackbar"
     title="Build Status"
     target="blank"
   >
     <img
-      src="https://travis-ci.org/evandromacedo/react-simple-snackbar.svg?branch=master"
+      src="https://travis-ci.org/evandromacedo/react-cmbr-snackbar.svg?branch=master"
       alt="Build Status"
     />
   </a>
   <a
-    href="https://coveralls.io/github/evandromacedo/react-simple-snackbar?branch=master"
+    href="https://coveralls.io/github/evandromacedo/react-cmbr-snackbar?branch=master"
     title="Coverage Status"
     target="blank"
   >
     <img
-      src="https://coveralls.io/repos/github/evandromacedo/react-simple-snackbar/badge.svg?branch=master"
+      src="https://coveralls.io/repos/github/evandromacedo/react-cmbr-snackbar/badge.svg?branch=master"
       alt="Coverage Status"
     />
   </a>
   <a href="#" title="Gzipped size">
     <img
-      src="https://img.badgesize.io/evandromacedo/react-simple-snackbar/master/dist/index.js.svg?compression=gzip"
+      src="https://img.badgesize.io/evandromacedo/react-cmbr-snackbar/master/dist/index.js.svg?compression=gzip"
       alt="Gzipped size"
     />
   </a>
@@ -46,7 +46,7 @@
     />
   </a>
   <a
-    href="https://github.com/evandromacedo/react-simple-snackbar/blob/master/LICENSE.md"
+    href="https://github.com/evandromacedo/react-cmbr-snackbar/blob/master/LICENSE.md"
     title="MIT License"
     target="blank"
   >
@@ -57,7 +57,7 @@
   </a>
 </p>
 
-You can check a quick demo [here](https://evandromacedo.github.io/react-simple-snackbar/).
+You can check a quick demo [here](https://evandromacedo.github.io/react-cmbr-snackbar/).
 
 ## Getting Started
 
@@ -212,7 +212,7 @@ withSnackbar(Component, options)
 
 ## Testing
 
-> The snackbar itself is [already tested](https://github.com/evandromacedo/react-simple-snackbar/tree/master/src/__tests__) and you don't have to worry about it.
+> The snackbar itself is [already tested](https://github.com/evandromacedo/react-cmbr-snackbar/tree/master/src/__tests__) and you don't have to worry about it.
 
 To test components that use Snackbar functionalities, there are some approaches as described bellow. This examples makes use of [Jest](https://jestjs.io/) and [Enzyme](https://airbnb.io/enzyme/) for testing, but you can use whatever you want.
 
@@ -295,8 +295,8 @@ it('can test the openSnackbar and closeSnackbar functions', () => {
 
 ## Contributing
 
-See [CONTRIBUTING](https://github.com/evandromacedo/react-simple-snackbar/blob/master/CONTRIBUTING.md) for more information on how to get started.
+See [CONTRIBUTING](https://github.com/evandromacedo/react-cmbr-snackbar/blob/master/CONTRIBUTING.md) for more information on how to get started.
 
 ## License
 
-React Simple Snackbar is open source software [licensed as MIT](https://github.com/evandromacedo/react-simple-snackbar/blob/master/LICENSE.md).
+React Simple Snackbar is open source software [licensed as MIT](https://github.com/evandromacedo/react-cmbr-snackbar/blob/master/LICENSE.md).

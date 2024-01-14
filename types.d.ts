@@ -1,4 +1,4 @@
-declare module 'react-simple-snackbar' {
+declare module 'react-cmbr-snackbar' {
 
   export type SnackbarProviderProps = {
     children?: React.ReactChild | React.ReactChildren | JSX.Element | JSX.Element[];

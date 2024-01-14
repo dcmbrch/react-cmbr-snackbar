@@ -1,6 +1,6 @@
 {
   "name": "react-cmbr-snackbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A really simple React snackbar component",
   "main": "dist/index.js",
   "types": "./types.d.ts",
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/dcmbrch/react-cmbr-snackbar.git"
   },
   "keywords": [
-    "react-simple-snackbar",
+    "react-cmbr-snackbar",
     "react",
     "simple",
     "snackbar",
